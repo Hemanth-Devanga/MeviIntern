@@ -1,0 +1,9 @@
+body{
+
+    background-image:url("https://thumbs.dreamstime.com/b/juice-bar-colorful-pink-sign-51163170.jpg");
+
+    background-repeat: no-repeat;
+    background-size: 100%;
+    backdrop-filter: blur(100px);
+    
+}
